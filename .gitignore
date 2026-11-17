@@ -5,3 +5,4 @@ secrets.env
 data/
 *.log
 circuits/*.zkey.json
+cloudflared.exe
