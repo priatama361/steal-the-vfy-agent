@@ -1,0 +1,6 @@
+{
+  "type": "agent-games.preflight.v1",
+  "agent_id": "agt_test_0001",
+  "issued_at": "2026-11-17T00:00:00.000Z",
+  "nonce": "abc123"
+}

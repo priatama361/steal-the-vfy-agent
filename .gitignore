@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+secrets.env
+data/
+*.log
+circuits/*.zkey.json
